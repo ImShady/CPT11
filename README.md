@@ -1,6 +1,6 @@
 CPT11
 =====
 
-Grade 11 CPT, including chat, blackjack, conversions tic tac toe.
+CPT 11 including chat, blackjack, conversions tic tac toe.
 
 // edit
